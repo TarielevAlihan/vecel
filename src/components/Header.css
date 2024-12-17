@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .cart-button {
+    background-color: #61dafb;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .cart-button:hover {
+    background-color: #21a1f1;
+  }
+  .logo {
+    width: 100px; /* Размер логотипа, можно настроить */
+    height: auto;
+  }
